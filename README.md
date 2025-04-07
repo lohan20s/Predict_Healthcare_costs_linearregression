@@ -1,3 +1,3 @@
 # Predict_Healthcare_costs_linearregression
-Linear regression using tensorflow 
-Alternative methods using sklearn and statsmodesl 
+Uses linear regression (in tensor flow) to predict the cost of health care 
+Alternatively uses sklearn and statsmodel for linear regression  
